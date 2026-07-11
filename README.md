@@ -30,8 +30,10 @@ Consolidar una base sólida como desarrolladora Full Stack, combinando lo que ya
 
 ## 📫 Cómo contactarme
 
-[![Web](https://img.shields.io/badge/Web-visita%20mi%20web-violet)](https://ilqdigital.es/)
-[![Behance](https://img.shields.io/badge/Behance-Ver%20portfolio-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ilqdigital)
+[![Web](https://img.shields.io/badge/Web-Visita%20mi%20web-violet)](https://ilqdigital.es/)
+[![Behance](https://img.shields.io/badge/Behance-Ver%20portfolio-blue)](https://www.behance.net/ilqdigital)
+[![GitHub](https://img.shields.io/badge/GitHub-Cont%C3%A1ctame-green)](https://github.com/ILQDigital/)
+
 
 
 

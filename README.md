@@ -1,6 +1,7 @@
+
 <h1 align="center">Hola, soy Inma Luján   👋</h1>
 
-<img width="1774" height="887" alt="banner_github" src="https://github.com/user-attachments/assets/48309308-cc51-4121-b52b-885897c983af" />
+<img width="1774" height="887" alt="banner_github" src="https://github.com/user-attachments/assets/85abb5c2-23de-4906-8d78-fae9bfd2654f" />
 
 🔄 Estoy retomando y actualizando mi formación en informática tras 20 años, ahora enfocada en **desarrollo Full Stack**.
 
